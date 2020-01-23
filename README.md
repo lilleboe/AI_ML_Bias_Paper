@@ -1,7 +1,10 @@
 ## Exploration of Artificial Intelligence & Machine Learning Algorithm Bias, Legal and Ethical Topics in Online Classes
 
 ### CATALOG OF PROJECT CONTENTS
-
+* proposal.pdf
+  - Project proposal documentation.
+* qualifier_question.pdf
+  - Qualifier question for the overall project.
 * survey.pdf
   - PDF version of the survey Google form.
 * survey_peersurvey.pdf
