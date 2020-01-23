@@ -1,5 +1,6 @@
-## CATALOG OF PROJECT CONTENTS
-### SCOTT LILLEBOE
+## Exploration of Artificial Intelligence & Machine Learning Algorithm Bias, Legal and Ethical Topics in Online Classes
+
+### CATALOG OF PROJECT CONTENTS
 
 * survey.pdf
   - PDF version of the survey Google form.
