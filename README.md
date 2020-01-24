@@ -1,6 +1,6 @@
 ## Exploration of Artificial Intelligence & Machine Learning Algorithm Bias, Legal and Ethical Topics in Online Classes
 
-### CATALOG OF PROJECT CONTENTS
+### CATALOG OF CONTENTS
 * proposal.pdf
   - Project proposal documentation.
 * qualifier_question.pdf
@@ -18,7 +18,7 @@
 * final_paper.pdf
   - The final project research paper.
 * final_project_slides.pdf
-  - PowerPoint slides used in the making of the final presentation video.
+  - Slides used in the making of the final presentation video.
 * final_presentation.pdf
   - Document that contains the link to the final video presentation
   - https://youtu.be/9XOxxwopxYI (YouTube link to presentation)
