@@ -15,3 +15,5 @@
   - The research paper.
 * presentation_slides.pdf
   - Slides used in the making of the presentation video.
+* presentation
+  - https://youtu.be/9XOxxwopxYI
