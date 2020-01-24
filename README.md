@@ -14,8 +14,7 @@ was simply a jumping off point to reach the Google form.
   - Excel file with downloaded results from the project survey along with the graphs
 created for the final paper.
 * supplemental_survey_peersurvey.pdf
-  - PDF version of the supplemental survey questions and results from
-peersurvey.cc.gatech.edu.
+  - PDF version of the supplemental survey questions and results.
 * supplemental_survey_results.xlsx
   - Secondary survey results to help clarify and refine research into exact classes that are
 teaching bias, legal and ethical topics.
