@@ -1,4 +1,5 @@
-## Exploration of Artificial Intelligence & Machine Learning Algorithm Bias, Legal and Ethical Topics in Online Classes
+# Exploration of Artificial Intelligence & Machine Learning Algorithm Bias, Legal and Ethical Topics in Online Classes
+## Paper written for GA Tech CS 64060 Educational Technology
 
 ### CATALOG OF CONTENTS
 * survey.pdf
